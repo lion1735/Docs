@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "38dcbf48256784e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "253c7c81c6d1918f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93126fba7d52eedd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "우아한테크 - 글 쓰는 우아한 개발자.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7218c13277306a50",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd6faafecf38d545",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3845311cf2112356",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "561e0baa1b345233",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0928fc95235aeaf7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "84d8eee5299a0a96",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "72cd018c58c2d151",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "135c2de9d5a56b9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "37c2c68fc237ab94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cde250bcd86e030f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "우아한테크 - 글 쓰는 우아한 개발자.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "58b9b33af1711ad6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "우아한테크 - 글 쓰는 우아한 개발자.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43111d1ad42d857c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1967af4be48b881a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "우아한테크 - 글 쓰는 우아한 개발자.md"
+              }
+            }
+          },
+          {
+            "id": "eb0038cf1d646178",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "remotely-save:Remotely Save": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "markdown-importer:마크다운 형식 가져오기 열기": false
+    }
+  },
+  "active": "93126fba7d52eedd",
+  "lastOpenFiles": [
+    "2023-10-31.md",
+    "우아한테크 - 글 쓰는 우아한 개발자.md",
+    "Templates/일반 템플릿.md",
+    "캔버스.canvas",
+    "Templates",
+    "Spaces/Home/New Note.md",
+    "Spaces/Home/Home.md",
+    "Spaces/New Note.md",
+    "Spaces/Spaces.md",
+    "Spaces/Home",
+    "Spaces"
+  ]
+}
