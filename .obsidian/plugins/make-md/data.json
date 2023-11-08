@@ -39,13 +39,24 @@
     "//Spaces",
     "//Spaces/Spaces/Home",
     "//Spaces/Spaces/Home",
-    "//Spaces/Spaces/Home"
+    "//Spaces/Spaces/Home",
+    "//Templates",
+    "//Spaces",
+    "//Spaces"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
-    "spaces://$tags",
-    "/",
-    "Templates"
+    "Tags",
+    "#다우기술",
+    "Docs",
+    "#server",
+    "#inter는",
+    "#rise는",
+    "#fall은",
+    "#ㅇ",
+    "#인프라",
+    "#To",
+    "#Tool"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,

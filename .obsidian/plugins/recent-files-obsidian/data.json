@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "우아한테크 - 글 쓰는 우아한 개발자",
-      "path": "우아한테크 - 글 쓰는 우아한 개발자.md"
+      "basename": "[HAProxy]란",
+      "path": "[HAProxy]란.md"
     },
     {
-      "basename": "일반 템플릿",
-      "path": "Templates/일반 템플릿.md"
+      "basename": "인프라 SW",
+      "path": "인프라 SW.md"
     },
     {
-      "basename": "캔버스",
-      "path": "캔버스.canvas"
+      "basename": "2020 배달의민족 마이크로서비스 여행기",
+      "path": "2020 배달의민족 마이크로서비스 여행기.md"
+    },
+    {
+      "basename": "옵시디언 (Obsidian) 다운로드 및 설치",
+      "path": "옵시디언 (Obsidian) 다운로드 및 설치.md"
     }
   ],
   "omittedPaths": [],
