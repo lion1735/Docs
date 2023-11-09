@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "393070a80213054c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "다우기술/다우기술.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "다우기술/다우기술.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "다우기술/다우기술.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "다우기술/다우기술.md"
               }
             }
           },
@@ -187,10 +199,13 @@
       "markdown-importer:마크다운 형식 가져오기 열기": false
     }
   },
-  "active": "916f204188cf77c1",
+  "active": "393070a80213054c",
   "lastOpenFiles": [
-    "[HAProxy]란.md",
+    "다우기술/무제 파일 1.md",
+    "다우기술/다우기술.md",
     "무제 파일.md",
+    "다우기술",
+    "[HAProxy]란.md",
     "NCA.md",
     "옵시디언 (Obsidian) 다운로드 및 설치.md",
     "2020 배달의민족 마이크로서비스 여행기.md",
