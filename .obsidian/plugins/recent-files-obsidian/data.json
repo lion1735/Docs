@@ -5,16 +5,16 @@
       "path": "[HAProxy]란.md"
     },
     {
-      "basename": "인프라 SW",
-      "path": "인프라 SW.md"
+      "basename": "옵시디언 (Obsidian) 다운로드 및 설치",
+      "path": "옵시디언 (Obsidian) 다운로드 및 설치.md"
     },
     {
       "basename": "2020 배달의민족 마이크로서비스 여행기",
       "path": "2020 배달의민족 마이크로서비스 여행기.md"
     },
     {
-      "basename": "옵시디언 (Obsidian) 다운로드 및 설치",
-      "path": "옵시디언 (Obsidian) 다운로드 및 설치.md"
+      "basename": "인프라 SW",
+      "path": "인프라 SW.md"
     }
   ],
   "omittedPaths": [],

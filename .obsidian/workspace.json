@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -177,10 +177,10 @@
   },
   "active": "79708af8746f1f26",
   "lastOpenFiles": [
-    "인프라 SW.md",
+    "옵시디언 (Obsidian) 다운로드 및 설치.md",
     "2020 배달의민족 마이크로서비스 여행기.md",
     "[HAProxy]란.md",
-    "옵시디언 (Obsidian) 다운로드 및 설치.md",
+    "인프라 SW.md",
     "Templates/일반 템플릿.md",
     "무제 파일.canvas",
     "2023-11-07.md",
