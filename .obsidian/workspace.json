@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NCA.md",
+                "file": "[HAProxy]란.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NCA.md",
+                "file": "[HAProxy]란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NCA.md",
+                "file": "[HAProxy]란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NCA.md"
+                "file": "[HAProxy]란.md"
               }
             }
           },
@@ -177,8 +177,8 @@
   },
   "active": "79708af8746f1f26",
   "lastOpenFiles": [
-    "[HAProxy]란.md",
     "NCA.md",
+    "[HAProxy]란.md",
     "옵시디언 (Obsidian) 다운로드 및 설치.md",
     "2020 배달의민족 마이크로서비스 여행기.md",
     "인프라 SW.md",
